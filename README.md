@@ -1,4 +1,4 @@
-![](https://www.dropbox.com/s/iqoyti8wqp6vj4d/ic_launcher.png?dl=0?raw=true)
+![](ic_launcher.png?raw=true)
 # CanIEatThis (Public)
 This repository is to host the issues and bug tracking for CanIEatThis (Android App) whilst keeping the code private. 
 
