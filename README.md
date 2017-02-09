@@ -6,4 +6,4 @@ CanIEatThis is an Android app created as a final year project at university. It 
 
 <a href='https://play.google.com/store/apps/details?id=com.adamshort.canieatthis.app&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_gb/badges/images/generic/en_badge_web_generic.png' height='100'/></a>
 
-[![Build Status](http://217.67.52.70:8080/buildStatus/icon?job=CanIEatThis)](http://217.67.52.70:8080/job/CanIEatThis/)
+[![Build Status](http://217.67.52.70:8080/buildStatus/icon?job=CanIEatThis - Android)](http://217.67.52.70:8080/job/CanIEatThis%20-%20Android/)
